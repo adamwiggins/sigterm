@@ -1,3 +1,4 @@
+STDOUT.sync = true
 puts "Starting up"
 
 trap('TERM') do
